@@ -1,0 +1,3 @@
+Syllabus content:
+___________________
+Aspects  of  radio  wave  propagation  for  fixed  and mobile  communication  systems,  and  cellular  system  design. Large-scale  and  small-scale  propagation  models,  multipath  fading,  link-budget,  interference  and  frequency reuse, multiple access schemes and system capacity. Trunking and grade of service, wireless network planning and operation.  Architecture  and  operation  of  2G  cellular  mobile  systems,  2.5  G  and  3G  technologies.  Special techniques/Diversity, Equalization, Interleaving, and Smart Antenna.

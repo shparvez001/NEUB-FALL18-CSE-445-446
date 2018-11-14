@@ -1,0 +1,6 @@
+Mobile Communications by Jochen Schiller
+Wireless Communications Principle and Practice by Theodore S. Rappaport
+by Saleh Faruque
+COMMUNICATION SYSTEMS ENGINEERING by John G. Proakis
+Modern Digital and Analog Communication System by B.P. Lathi
+Data Communications and Networking by Behrouz A. Forouzan
